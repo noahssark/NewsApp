@@ -1,0 +1,24 @@
+body { background-color: gray;
+  color: white;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;}
+form{
+    background: blue;
+    margin: 2px auto;
+    padding: 5px auto;
+}
+from.input{
+    display: flex;
+    flex-direction: row;
+    border-radius: 3px;
+    
+}
+
+
+
+
+
+
+
+
